@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+/* body{
+  background-color: #F2F2F2;
+} */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
