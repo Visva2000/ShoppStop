@@ -9,5 +9,11 @@ Key Features:
 
 - Firebase Integration: The website is hosted on Firebase, making it easy to scale and deploy while ensuring fast loading times and reliability.
 
+**SignIn Credentials:**
+
+Username:    mor_2314
+
+Password:    83r5^_
+
 Website Link: https://shopstopp-e7ee9.web.app/
 =======
